@@ -1,0 +1,8 @@
+<svg>
+  <text id="time" x="100%-10" y="30" fill="cyan" font-size="35" font-weight="bold" text-anchor="end" text-length="8"></text>
+  <text id="day" x="100%-10" y="52" fill="cyan" font-size="18" font-weight="bold" text-anchor="end" text-length="10"></text>
+  <text id="date" x="100%-10" y="77" fill="cyan" font-size="18" font-weight="bold" text-anchor="end" text-length="10"></text>
+  <text id="days" x="10" y="50%+5" fill="white" font-size="40" text-anchor="start" text-length="30"></text>
+  <text id="footer" x="10" y="60%+5" fill="red" font-size="15" font-weight="bold" text-anchor="start">DAYS LIVED</text>
+  <text id="quote" x="10" y="90%+5" fill="white" font-size="15" text-anchor="start">Add life to your days, not days to your life.</text>
+</svg>
